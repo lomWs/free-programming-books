@@ -135,6 +135,7 @@
 ### JavaScript
 
 * [Corso base di Javascript](https://www.youtube.com/playlist?list=PLFLSwyN4GsWmcBvMr5tzsJy9TI8DbfWC5) (S. Tocci)
+* [Corso Javascript Completo 2021](https://www.youtube.com/watch?v=84TYC44ezIU&list=PLP5MAKLy8lP9FUx06-avV66mS8LXz7_Bb) (E.Midali)
 * [Corso di JavaScript (base)](https://www.youtube.com/watch?v=JUBhi8O3wn0&list=PLG5caACNVwzpIhlLACNZd6BvABWv_Ti4I) [(Lacerba.io)](https://lacerba.io)
 * [Corso Javascript (ES6)](https://www.youtube.com/watch?v=dDekOIgzxPA&list=PL0qAPtx8YtJceyk5_NpNvLbbkrmfX9kkw) (F. Camuso)
 * [Introduzione a NodeJS](https://www.nodeacademy.it) - Alberto Olla (email address *requested*, not required)
@@ -169,6 +170,7 @@
 ### Python
 
 * [Corso Python 2016](https://www.youtube.com/playlist?list=PLA27EZBY5veOa-dbNIetJvyrAuoVy4zDD) (POuLpolimi Politecnico di Milano)
+* [Corso Python Completo 2021](https://www.youtube.com/watch?v=8zlTWxga6F8&list=PLP5MAKLy8lP8FAytdm2ncZbPioA9A2SgF)(E.Midali)
 * [Corso rapido Python per principianti e per esempi](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdbiBCoj4j6x_Ai6Vu9j5r9) (F. Camuso)
 
 
