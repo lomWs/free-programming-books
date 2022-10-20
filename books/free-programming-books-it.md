@@ -31,6 +31,7 @@
 * [PHP](#php)
   * [Symfony](#symfony)
 * [Python](#python)
+* [Prolog](#prolog)
   * [Django](#django)
 * [Ruby](#ruby)
 * [TypeScript](#typescript)
@@ -244,6 +245,10 @@
 * [Pensare da Informatico, Versione Python](http://www.python.it/doc/Howtothink/Howtothink-html-it/index.htm)
 * [Python per tutti: Esplorare dati con Python3](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.pdf) - Dr. Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.epub)
 
+
+
+### Prolog
+* [Dispensa prolog](https://didattica-2000.archived.uniroma2.it/SBC0405/deposito/Prolog.pdf)
 
 #### Django
 
