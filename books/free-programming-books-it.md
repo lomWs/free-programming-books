@@ -249,6 +249,7 @@
 
 ### Prolog
 * [Dispensa prolog](https://didattica-2000.archived.uniroma2.it/SBC0405/deposito/Prolog.pdf)
+* [Programmazione logica](http://clamsitel.pbworks.com/w/file/fetch/53760039/prolog.pdf)(PDF)
 
 #### Django
 
