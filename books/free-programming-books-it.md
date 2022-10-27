@@ -244,16 +244,16 @@
 * [La libreria di riferimento di Python](http://docs.python.it/html/lib/)
 * [Pensare da Informatico, Versione Python](http://www.python.it/doc/Howtothink/Howtothink-html-it/index.htm)
 * [Python per tutti: Esplorare dati con Python3](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.pdf) - Dr. Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.epub)
+#### Django
 
+* [Il tutorial di Django Girls](https://tutorial.djangogirls.org/it/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### Prolog
 * [Dispensa prolog](https://didattica-2000.archived.uniroma2.it/SBC0405/deposito/Prolog.pdf)
 * [Programmazione logica](http://clamsitel.pbworks.com/w/file/fetch/53760039/prolog.pdf) (PDF)
 
-#### Django
 
-* [Il tutorial di Django Girls](https://tutorial.djangogirls.org/it/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### Ruby
